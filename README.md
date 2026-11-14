@@ -6,6 +6,25 @@ Think of it as a lightweight **AutoCAD + Optical Link Budget Calculator + Google
 
 ---
 
+## Screenshots
+
+### 1. Schematic CAD Workspace & Live Optical Budget
+Draw OLT, ODF, splitters, ratio couplers, FATs, and ONUs with live port `dBm`, ONU `Rx dBm` readouts, and instant optical network audits.
+
+![Schematic CAD Workspace](docs/screenshots/schematic-cad-workspace.png)
+
+### 2. GIS Street Map, Location Search & Flexible Fiber Routing
+Search streets/cities/coordinates, auto-route fiber cables along real roads (`Auto Street`), adjust bends manually (`Manual`), and lock individual bends or entire cables.
+
+![GIS Street Routing Map](docs/screenshots/gis-street-routing.png)
+
+### 3. Automatic FTTH Network Designer
+Generate complete centralized, distributed, cascaded, or single-stage FTTH topologies in seconds.
+
+![Automatic FTTH Network Designer](docs/screenshots/auto-network-designer.png)
+
+---
+
 ## What Is It Used For?
 
 1. **Designing Fiber Optic Network Diagrams (Schematic CAD Mode)**
